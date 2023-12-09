@@ -1,3 +1,9 @@
+FAV FOODS
 pizza
 paneer
 burger
+
+FAV MOVIES
+snowden
+rambo
+terminator
